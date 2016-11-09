@@ -25,3 +25,30 @@
 ### 下拉刷新
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109171230358-809332038.gif)
 <hr/>
+
+# <a href="https://github.com/glomadrian/dashed-circular-progress">glomadrian/dashed-circular-progress</a>
+### 圆形进度加载
+
+<hr/>
+
+# <a href="https://github.com/daimajia/NumberProgressBar">daimajia/NumberProgressBar</a>
+### 带数值的进度条
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109172030499-1528302165.gif)
+<hr/>
+
+# <a href="https://github.com/LarsWerkman/HoloColorPicker">LarsWerkman/HoloColorPicker</a>
+### 颜色选择器
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109172336811-541071876.png)
+<hr/>
+
+# <a href=""></a>
+### 
+
+<hr/>
+
+# <a href=""></a>
+### 
+
+<hr/>
+
+
