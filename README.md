@@ -11,6 +11,11 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109165737780-1725034943.png)
 <hr/>
 
+# <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
+### 仿微信支付时密码输入界面
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180659920-103616632.gif)
+<hr/>
+
 # <a href="https://github.com/zcweng/ToggleButton">zcweng/ToggleButton</a>
 ### 仿ios开关ToggleButton，支持设置打开跟关闭的颜色、边框宽度
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109165814139-814549887.gif)
