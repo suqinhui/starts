@@ -9,3 +9,12 @@
 # <a href="https://github.com/TakWolf/Android-Lock9View">TakWolf/Android-Lock9View</a>
 android手势锁，支持设置点的大小、动画效果、边距等
 <hr/>
+
+# <a href="https://github.com/TakWolf/Android-Lock9View">TakWolf/Android-Lock9View</a>
+android手势锁，支持设置点的大小、动画效果、边距等
+<hr/>
+
+# <a href="https://github.com/zcweng/ToggleButton">zcweng/ToggleButton</a>
+仿ios开关ToggleButton，支持设置打开跟关闭的颜色、边框宽度
+<hr/>
+
