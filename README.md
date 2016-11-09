@@ -22,7 +22,7 @@
 <hr/>
 
 # <a href="https://github.com/baoyongzhang/android-PullRefreshLayout">baoyongzhang/android-PullRefreshLayout</a>
-### 下拉刷新
+### 下拉刷新，包含四种样式
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109171230358-809332038.gif)
 <hr/>
 
@@ -54,14 +54,15 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109174610592-1569055124.gif)
 <hr/>
 
-# <a href=""></a>
-### 
-
+# <a href="https://github.com/oguzbilgener/CircularFloatingActionMenu">oguzbilgener/CircularFloatingActionMenu</a>
+### 卫星导航悬浮菜单
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109175327233-1393537018.gif)
 <hr/>
 
-# <a href=""></a>
-### 
-
+# <a href="https://github.com/YancyYe/ImageSelector">YancyYe/ImageSelector</a>
+### 图片选择器，支持单选、多选、拍照、裁剪，解决内存溢出问题
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109175546389-1552809015.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109175609436-1101953787.png)
 <hr/>
 
 # <a href=""></a>
