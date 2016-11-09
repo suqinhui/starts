@@ -48,9 +48,10 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109173809030-413267655.gif)
 <hr/>
 
-# <a href=""></a>
-### 
-
+# <a href="https://github.com/pedant/sweet-alert-dialog">pedant/sweet-alert-dialog</a>
+### 提示框dialog，成功、错误、警告、加载中、提示框
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109174222264-90257103.gif)&nbsp;&nbsp;&nbsp;&nbsp;
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109174610592-1569055124.gif)
 <hr/>
 
 # <a href=""></a>
