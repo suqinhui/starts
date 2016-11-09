@@ -60,14 +60,14 @@
 <hr/>
 
 # <a href="https://github.com/YancyYe/ImageSelector">YancyYe/ImageSelector</a>
-### 图片选择器，支持单选、多选、拍照、裁剪，解决内存溢出问题
+### 图片选择器，支持单选、多选、拍照、矩形裁剪，解决内存溢出问题
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109175546389-1552809015.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109175609436-1101953787.png)
 <hr/>
 
-# <a href=""></a>
-### 
-
+# <a href="https://github.com/easonline/AndroidImagePicker">easonline/AndroidImagePicker</a>
+### 图片选择器，支持单选、多选、拍照、圆形裁剪以及裁剪后像素大小设置
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180104717-1006876602.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180116858-1456206197.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180125092-1120765264.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180140436-2121713926.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180147389-38322669.png)
 <hr/>
 
 # <a href=""></a>
