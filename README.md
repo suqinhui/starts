@@ -13,7 +13,7 @@
 
 # <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
 ### 仿微信支付时密码输入界面
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113958233-268571228.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110142426420-2069644483.gif)
 <hr/>
 
 # <a href="https://github.com/zcweng/ToggleButton">zcweng/ToggleButton</a>
@@ -60,12 +60,12 @@
 
 # <a href="https://github.com/Quinny898/PersistentSearch">Quinny898/PersistentSearch</a>
 ### 实现了类似 Google Play ， Google Now等应用中搜索控件的效果，点击搜索后在原有位置显示输入框
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109173809030-413267655.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110141154920-2137898769.gif)
 <hr/>
 
 # <a href="https://github.com/pedant/sweet-alert-dialog">pedant/sweet-alert-dialog</a>
 ### 提示框dialog，成功、错误、警告、加载中、提示框
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109174222264-90257103.gif)&nbsp;&nbsp;&nbsp;&nbsp;
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110141430936-1626712450.gif)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109174610592-1569055124.gif)
 <hr/>
 
@@ -81,8 +81,8 @@
 
 # <a href="https://github.com/YancyYe/ImageSelector">YancyYe/ImageSelector</a>
 ### 图片选择器，支持单选、多选、拍照、矩形裁剪，解决内存溢出问题
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109175546389-1552809015.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109175609436-1101953787.png)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110141658139-1072201013.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110141729733-1940511228.png)
 <hr/>
 
 # <a href="https://github.com/easonline/AndroidImagePicker">easonline/AndroidImagePicker</a>
@@ -97,12 +97,12 @@
 
 # <a href="https://github.com/keklikhasan/LDrawer">keklikhasan/LDrawer</a>
 ### 侧滑菜单，带标题栏动态按钮
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180948170-1614699869.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110141856108-16354592.gif)
 <hr/>
 
 # <a href="https://github.com/daimajia/AndroidViewAnimations">daimajia/AndroidViewAnimations</a>
 ### 带动画效果的View，TextView、EditView等等
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110105924139-1723774730.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110142241436-1046570402.gif)
 <hr/>
 
 # <a href=""></a>
