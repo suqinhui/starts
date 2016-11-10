@@ -13,7 +13,7 @@
 
 # <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
 ### 仿微信支付时密码输入界面
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110142426420-2069644483.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110143859014-697186681.gif)
 <hr/>
 
 # <a href="https://github.com/zcweng/ToggleButton">zcweng/ToggleButton</a>
@@ -97,7 +97,7 @@
 
 # <a href="https://github.com/keklikhasan/LDrawer">keklikhasan/LDrawer</a>
 ### 侧滑菜单，带标题栏动态按钮
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110141856108-16354592.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110143946030-4125875.gif)
 <hr/>
 
 # <a href="https://github.com/daimajia/AndroidViewAnimations">daimajia/AndroidViewAnimations</a>
