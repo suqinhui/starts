@@ -44,7 +44,7 @@
 
 # <a href="https://github.com/felipecsl/GifImageView">felipecsl/GifImageView</a>
 ### 动态图片，可直接将gif图片作为ImageView的资源，支持开始、暂停动画
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110152630545-182013843.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110152854389-1981523785.gif)
 <hr/>
 
 # <a href="https://github.com/code-troopers/android-betterpickers">code-troopers/android-betterpickers</a>
