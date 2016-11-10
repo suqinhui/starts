@@ -72,7 +72,7 @@
 
 # <a href="https://github.com/Flipboard/bottomsheet">Flipboard/bottomsheet</a>
 ### 底部弹出框，界面可以为列表、坐标方格
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110212353045-2109641658.gif" width="400" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110214853639-622388130.gif" width="260" />
 <hr/>
 
 # <a href="https://github.com/lewisjdeane/L-Dialogs">lewisjdeane/L-Dialogs</a>
@@ -171,7 +171,7 @@
 
 # <a href="https://github.com/saiwu-bigkoo/Android-PickerView">saiwu-bigkoo/Android-PickerView</a>
 ### 仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110211436014-1354903974.gif" width="220" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110211436014-1354903974.gif" width="260" />
 <hr/>
 
 # <a href="https://github.com/glomadrian/dashed-circular-progress">glomadrian/dashed-circular-progress</a>
@@ -193,7 +193,7 @@
 
 # <a href="https://github.com/lzyzsd/CircleProgress">lzyzsd/CircleProgress</a>
 ### 圆形进度控件，带进度数值
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110205849327-1927202147.gif" width="200" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110215140217-637925616.gif" width="280" />
 <hr/>
 
 # <a href="https://github.com/markushi/android-ui">markushi/android-ui</a>
@@ -208,7 +208,7 @@
 
 # <a href="https://github.com/mxn21/FlowingDrawer">mxn21/FlowingDrawer</a>
 ### 带动画的侧滑菜单
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110211824811-823870968.gif" width="300" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110211824811-823870968.gif" width="380" />
 <hr/>
 
 # <a href="https://github.com/LuckyJayce/ViewPagerIndicator">LuckyJayce/ViewPagerIndicator</a>
@@ -233,7 +233,7 @@
 
 # <a href="https://github.com/Nightonke/BlurLockView">Nightonke/BlurLockView</a>
 ### 数字锁、字母锁，带输入正确、错误回调事件
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110214600686-659592476.gif" width="250" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110215454467-72951520.gif" width="250" />
 <hr/>
 
 # <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
