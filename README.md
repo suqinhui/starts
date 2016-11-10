@@ -32,6 +32,21 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110150017092-1286405108.png)
 <hr/>
 
+# <a href="https://github.com/daimajia/AndroidViewAnimations">daimajia/AndroidViewAnimations</a>
+### 带动画效果的View，TextView、EditView等等
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110142241436-1046570402.gif)
+<hr/>
+
+# <a href="https://github.com/siyamed/android-shape-imageview">siyamed/android-shape-imageview</a>
+### 多种形状的图片，圆形、三角形、五角星、多边形等等
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110151934014-1050667458.png)
+<hr/>
+
+# <a href="https://github.com/felipecsl/GifImageView">felipecsl/GifImageView</a>
+### 动态图片，可直接将gif图片作为ImageView的资源，支持开始、暂停动画
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110152630545-182013843.gif)
+<hr/>
+
 # <a href="https://github.com/code-troopers/android-betterpickers">code-troopers/android-betterpickers</a>
 ### 时间、日期弹出框选择器
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111546108-43439664.png)
@@ -52,9 +67,15 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110110412420-1824521441.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110110431233-755332617.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110110439186-2110470098.png)
 <hr/>
 
-# <a href="https://github.com/daimajia/AndroidViewAnimations">daimajia/AndroidViewAnimations</a>
-### 带动画效果的View，TextView、EditView等等
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110142241436-1046570402.gif)
+# <a href="https://github.com/glomadrian/dashed-circular-progress">glomadrian/dashed-circular-progress</a>
+### 圆形进度加载
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109172856452-1466817502.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109172913311-1502683871.png)
+<hr/>
+
+# <a href="https://github.com/daimajia/NumberProgressBar">daimajia/NumberProgressBar</a>
+### 带数值的进度条
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109172030499-1528302165.gif)
 <hr/>
 
 # <a href="https://github.com/TakWolf/Android-Lock9View">TakWolf/Android-Lock9View</a>
@@ -65,17 +86,6 @@
 # <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
 ### 仿微信支付时密码输入界面
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110143859014-697186681.gif)
-<hr/>
-
-# <a href="https://github.com/glomadrian/dashed-circular-progress">glomadrian/dashed-circular-progress</a>
-### 圆形进度加载
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109172856452-1466817502.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109172913311-1502683871.png)
-<hr/>
-
-# <a href="https://github.com/daimajia/NumberProgressBar">daimajia/NumberProgressBar</a>
-### 带数值的进度条
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109172030499-1528302165.gif)
 <hr/>
 
 # <a href="https://github.com/LarsWerkman/HoloColorPicker">LarsWerkman/HoloColorPicker</a>
