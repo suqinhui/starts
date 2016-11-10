@@ -54,7 +54,7 @@
 <hr/>
 
 # <a href="https://github.com/Quinny898/PersistentSearch">Quinny898/PersistentSearch</a>
-### 一个实现了类似 Google Play ， Google Now, Google Maps等应用中搜索控件效果的库。在点击搜索的时候控件在原有位置显示输入框。
+### 实现了类似 Google Play ， Google Now等应用中搜索控件的效果，点击搜索后在原有位置显示输入框
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109173809030-413267655.gif)
 <hr/>
 
