@@ -1,5 +1,5 @@
 # <a href="https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md">Android开发规范</a>
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109163735827-2042726753.png)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113432186-350825269.png)
 <hr/>
 
 # <a href="https://github.com/ZQiang94/Andriod-collect-blogs">ZQiang94/Andriod-collect-blogs</a>
@@ -13,7 +13,7 @@
 
 # <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
 ### 仿微信支付时密码输入界面
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180659920-103616632.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113306264-607515229.gif)
 <hr/>
 
 # <a href="https://github.com/zcweng/ToggleButton">zcweng/ToggleButton</a>
