@@ -162,8 +162,7 @@
 
 # <a href="https://github.com/LuckyJayce/ViewPagerIndicator">LuckyJayce/ViewPagerIndicator</a>
 ### ViewPager，实现了引导页、可自定义高度的高度自定义的tab、网易顶部的tab、新浪微博底部tab
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110174242452-384078811.png)
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110174250624-746943861.png)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110203305889-1303458748.png)![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110203314108-1940612450.png)
 <hr/>
 
 # <a href="https://github.com/H07000223/FlycoTabLayout">H07000223/FlycoTabLayout</a>
