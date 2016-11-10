@@ -72,7 +72,7 @@
 
 # <a href="https://github.com/Flipboard/bottomsheet">Flipboard/bottomsheet</a>
 ### 底部弹出框，界面可以为列表、坐标方格
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110212353045-2109641658.gif" width="200" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110212353045-2109641658.gif" width="400" />
 <hr/>
 
 # <a href="https://github.com/lewisjdeane/L-Dialogs">lewisjdeane/L-Dialogs</a>
@@ -82,7 +82,7 @@
 
 # <a href="https://github.com/javiersantos/BottomDialogs">javiersantos/BottomDialogs</a>
 ### 较简单的底部弹出对话框，可自定义界面
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110164845186-1747424608.gif" width="200" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110164845186-1747424608.gif" width="250" />
 <hr/>
 
 # <a href="https://github.com/daimajia/AndroidViewAnimations">daimajia/AndroidViewAnimations</a>
@@ -136,7 +136,7 @@
 
 # <a href="https://github.com/baoyongzhang/SwipeMenuListView">baoyongzhang/SwipeMenuListView</a>
 ### ListView列表项左滑菜单，可自定义菜单项、文字、背景等
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110180145749-258114106.gif" width="200" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110180145749-258114106.gif" width="230" />
 <hr/>
 
 # <a href="https://github.com/baoyongzhang/android-PullRefreshLayout">baoyongzhang/android-PullRefreshLayout</a>
@@ -146,7 +146,7 @@
 
 # <a href="https://github.com/tuesda/CircleRefreshLayout">tuesda/CircleRefreshLayout</a>
 ### ListView下拉刷新
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110204854170-681181005.gif" width="200" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110204854170-681181005.gif" width="240" />
 <hr/>
 
 # <a href="https://github.com/Yalantis/Taurus">Yalantis/Taurus</a>
@@ -171,7 +171,7 @@
 
 # <a href="https://github.com/saiwu-bigkoo/Android-PickerView">saiwu-bigkoo/Android-PickerView</a>
 ### 仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110211436014-1354903974.gif" width="200" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110211436014-1354903974.gif" width="220" />
 <hr/>
 
 # <a href="https://github.com/glomadrian/dashed-circular-progress">glomadrian/dashed-circular-progress</a>
@@ -208,7 +208,7 @@
 
 # <a href="https://github.com/mxn21/FlowingDrawer">mxn21/FlowingDrawer</a>
 ### 带动画的侧滑菜单
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110211824811-823870968.gif" width="200" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110211824811-823870968.gif" width="300" />
 <hr/>
 
 # <a href="https://github.com/LuckyJayce/ViewPagerIndicator">LuckyJayce/ViewPagerIndicator</a>
@@ -233,7 +233,7 @@
 
 # <a href="https://github.com/Nightonke/BlurLockView">Nightonke/BlurLockView</a>
 ### 数字锁、字母锁，带输入正确、错误回调事件
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110205849327-1927202147.gif" width="200" />
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110214600686-659592476.gif" width="250" />
 <hr/>
 
 # <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
@@ -279,7 +279,7 @@
 
 # <a href="https://github.com/BelooS/ChipsLayoutManager">BelooS/ChipsLayoutManager</a>
 ### 碎片标签，仿手机短信接收用户的样式，可以删除
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110162957561-474264876.gif" width="200" />
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110214618764-2115320019.png)
 <hr/>
 
 
