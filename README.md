@@ -16,6 +16,11 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110112725295-136636765.gif)
 <hr/>
 
+# <a href="https://github.com/jd-alexander/LikeButton">jd-alexander/LikeButton</a>
+### 带动画效果的喜欢、点赞、收藏按钮
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110161210092-747886574.gif" width="200" />
+<hr/>
+
 # <a href="https://github.com/JohnPersano/SuperToasts">JohnPersano/SuperToasts</a>
 ### 自定义的toast
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110145319077-933506976.png)
