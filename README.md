@@ -6,16 +6,6 @@
 ### 跟android开发相关的文档，内容较多，，，，
 <hr/>
 
-# <a href="https://github.com/TakWolf/Android-Lock9View">TakWolf/Android-Lock9View</a>
-### android手势锁，支持设置点的大小、动画效果、边距等
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113146764-176082002.png)
-<hr/>
-
-# <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
-### 仿微信支付时密码输入界面
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110143859014-697186681.gif)
-<hr/>
-
 # <a href="https://github.com/zcweng/ToggleButton">zcweng/ToggleButton</a>
 ### 仿ios开关ToggleButton，支持设置打开跟关闭的颜色、边框宽度
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110114107249-477248888.gif)
@@ -26,9 +16,20 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110112725295-136636765.gif)
 <hr/>
 
-# <a href="https://github.com/Yalantis/Taurus">Yalantis/Taurus</a>
-### 下拉刷新
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110114234077-1168691594.gif)
+# <a href="https://github.com/JohnPersano/SuperToasts">JohnPersano/SuperToasts</a>
+### 自定义的toast
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110145319077-933506976.png)
+<hr/>
+
+# <a href="https://github.com/pedant/sweet-alert-dialog">pedant/sweet-alert-dialog</a>
+### 提示框dialog，成功、错误、警告、加载中、提示框
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110141430936-1626712450.gif)&nbsp;&nbsp;&nbsp;&nbsp;
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109174610592-1569055124.gif)
+<hr/>
+
+# <a href="https://github.com/code-troopers/android-betterpickers">code-troopers/android-betterpickers</a>
+### 时间、日期弹出框选择器
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111546108-43439664.png)
 <hr/>
 
 # <a href="https://github.com/baoyongzhang/android-PullRefreshLayout">baoyongzhang/android-PullRefreshLayout</a>
@@ -36,9 +37,29 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110114353905-2074214678.gif)
 <hr/>
 
+# <a href="https://github.com/Yalantis/Taurus">Yalantis/Taurus</a>
+### 下拉刷新
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110114234077-1168691594.gif)
+<hr/>
+
 # <a href="https://github.com/beworker/pinned-section-listview">beworker/pinned-section-listview</a>
 ### 带分组的ListView，向上滑动最上方显示当前分组标题
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110110412420-1824521441.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110110431233-755332617.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110110439186-2110470098.png)
+<hr/>
+
+# <a href="https://github.com/daimajia/AndroidViewAnimations">daimajia/AndroidViewAnimations</a>
+### 带动画效果的View，TextView、EditView等等
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110142241436-1046570402.gif)
+<hr/>
+
+# <a href="https://github.com/TakWolf/Android-Lock9View">TakWolf/Android-Lock9View</a>
+### android手势锁，支持设置点的大小、动画效果、边距等
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113146764-176082002.png)
+<hr/>
+
+# <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
+### 仿微信支付时密码输入界面
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110143859014-697186681.gif)
 <hr/>
 
 # <a href="https://github.com/glomadrian/dashed-circular-progress">glomadrian/dashed-circular-progress</a>
@@ -61,17 +82,6 @@
 # <a href="https://github.com/Quinny898/PersistentSearch">Quinny898/PersistentSearch</a>
 ### 实现了类似 Google Play ， Google Now等应用中搜索控件的效果，点击搜索后在原有位置显示输入框
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110141154920-2137898769.gif)
-<hr/>
-
-# <a href="https://github.com/pedant/sweet-alert-dialog">pedant/sweet-alert-dialog</a>
-### 提示框dialog，成功、错误、警告、加载中、提示框
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110141430936-1626712450.gif)&nbsp;&nbsp;&nbsp;&nbsp;
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109174610592-1569055124.gif)
-<hr/>
-
-# <a href="https://github.com/code-troopers/android-betterpickers">code-troopers/android-betterpickers</a>
-### 时间、日期弹出框选择器
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111546108-43439664.png)
 <hr/>
 
 # <a href="https://github.com/oguzbilgener/CircularFloatingActionMenu">oguzbilgener/CircularFloatingActionMenu</a>
@@ -98,11 +108,6 @@
 # <a href="https://github.com/keklikhasan/LDrawer">keklikhasan/LDrawer</a>
 ### 侧滑菜单，带标题栏动态按钮
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110143946030-4125875.gif)
-<hr/>
-
-# <a href="https://github.com/daimajia/AndroidViewAnimations">daimajia/AndroidViewAnimations</a>
-### 带动画效果的View，TextView、EditView等等
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110142241436-1046570402.gif)
 <hr/>
 
 # <a href=""></a>
