@@ -17,8 +17,8 @@
 <hr/>
 
 # <a href="https://github.com/jd-alexander/LikeButton">jd-alexander/LikeButton</a>
-### 带动画效果的喜欢、点赞、收藏按钮
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110161210092-747886574.gif" width="200" />
+### 带动画效果的喜欢、点赞、收藏按钮，包含点击、取消点击两个事件
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110161449420-1181656122.gif)
 <hr/>
 
 # <a href="https://github.com/JohnPersano/SuperToasts">JohnPersano/SuperToasts</a>
