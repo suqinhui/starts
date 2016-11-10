@@ -8,7 +8,7 @@
 
 # <a href="https://github.com/TakWolf/Android-Lock9View">TakWolf/Android-Lock9View</a>
 ### android手势锁，支持设置点的大小、动画效果、边距等
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109165737780-1725034943.png)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113146764-176082002.png)
 <hr/>
 
 # <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
