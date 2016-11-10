@@ -38,6 +38,11 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110161449420-1181656122.gif)
 <hr/>
 
+# <a href="https://github.com/Clans/FloatingActionButton">Clans/FloatingActionButton</a>
+### 悬浮按钮
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110201745545-1784807562.png)
+<hr/>
+
 # <a href="https://github.com/JohnPersano/SuperToasts">JohnPersano/SuperToasts</a>
 ### 自定义的toast
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110145319077-933506976.png)
@@ -145,6 +150,27 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109172030499-1528302165.gif)
 <hr/>
 
+# <a href="https://github.com/markushi/android-ui">markushi/android-ui</a>
+### 标题栏打开侧滑栏的动态按钮
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180417717-1241867077.gif)
+<hr/>
+
+# <a href="https://github.com/keklikhasan/LDrawer">keklikhasan/LDrawer</a>
+### 侧滑菜单，带标题栏动态按钮
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110160441374-452073280.gif" width="200" />
+<hr/>
+
+# <a href="https://github.com/LuckyJayce/ViewPagerIndicator">LuckyJayce/ViewPagerIndicator</a>
+### ViewPager，实现了引导页、可自定义高度的高度自定义的tab、网易顶部的tab、新浪微博底部tab
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110174242452-384078811.png)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110174250624-746943861.png)
+<hr/>
+
+# <a href="https://github.com/H07000223/FlycoTabLayout">H07000223/FlycoTabLayout</a>
+### 标题栏tab
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110202528717-1146654292.gif" width="200" />&nbsp;&nbsp;<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110202920749-34683574.gif" width="200" />&nbsp;&nbsp;<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110202949624-1946200630.gif" width="200" />
+<hr/>
+
 # <a href="https://github.com/TakWolf/Android-Lock9View">TakWolf/Android-Lock9View</a>
 ### android手势锁，支持设置点的大小、动画效果、边距等
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113146764-176082002.png)
@@ -189,22 +215,6 @@
 # <a href="https://github.com/easonline/AndroidImagePicker">easonline/AndroidImagePicker</a>
 ### 图片选择器，支持单选、多选、拍照、圆形裁剪以及裁剪后像素大小设置
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180104717-1006876602.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180116858-1456206197.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180125092-1120765264.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180140436-2121713926.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180147389-38322669.png)
-<hr/>
-
-# <a href="https://github.com/markushi/android-ui">markushi/android-ui</a>
-### 标题栏打开侧滑栏的动态按钮
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109180417717-1241867077.gif)
-<hr/>
-
-# <a href="https://github.com/keklikhasan/LDrawer">keklikhasan/LDrawer</a>
-### 侧滑菜单，带标题栏动态按钮
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110160441374-452073280.gif" width="200" />
-<hr/>
-
-# <a href="https://github.com/LuckyJayce/ViewPagerIndicator">LuckyJayce/ViewPagerIndicator</a>
-### ViewPager，实现了引导页、可自定义高度的高度自定义的tab、网易顶部的tab、新浪微博底部tab
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110174242452-384078811.png)
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110174250624-746943861.png)
 <hr/>
 
 # <a href="https://github.com/BelooS/ChipsLayoutManager">BelooS/ChipsLayoutManager</a>
