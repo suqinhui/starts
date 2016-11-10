@@ -6,6 +6,11 @@
 ### 跟android开发相关的文档，内容较多，，，，
 <hr/>
 
+# <a href="https://github.com/wasabeef/awesome-android-ui">wasabeef/awesome-android-ui</a>
+### Android开发UI框架大全
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110165138592-1917309192.png)
+<hr/>
+
 # <a href="https://github.com/zcweng/ToggleButton">zcweng/ToggleButton</a>
 ### 仿ios开关ToggleButton，支持设置打开跟关闭的颜色、边框宽度
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110114107249-477248888.gif)
@@ -32,6 +37,11 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109174610592-1569055124.gif)
 <hr/>
 
+# <a href="https://github.com/yilylong/CBDialog">yilylong/CBDialog</a>
+### 对话框，可从顶部、中间、底部弹出（带动画效果），提示、错误、列表、加载中（20几种动画样式）、自定义样式
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110164452295-1355425772.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110164505764-102632454.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110164512436-1620275732.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110164538905-190424654.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110164546280-11836264.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110164555092-2041024456.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110164605592-1642804394.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110164610874-2130236305.png)
+<hr/>
+
 # <a href="https://github.com/orhanobut/dialogplus">orhanobut/dialogplus</a>
 ### 对话框，可从顶部、中间、底部弹出，显示界面可以为自定义、列表（可扩展）、坐标方格
 <img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110155637374-1640884902.gif" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,9 +53,34 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110150017092-1286405108.png)
 <hr/>
 
+# <a href="https://github.com/javiersantos/BottomDialogs">javiersantos/BottomDialogs</a>
+### 较简单的底部弹出对话框，可自定义界面
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110164845186-1747424608.gif" width="200" />
+<hr/>
+
 # <a href="https://github.com/daimajia/AndroidViewAnimations">daimajia/AndroidViewAnimations</a>
 ### 带动画效果的View，TextView、EditView等等
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110142241436-1046570402.gif)
+<hr/>
+
+# <a href="https://github.com/maksim88/PasswordEditText">maksim88/PasswordEditText</a>
+### 密码输入框，带显示/隐藏密码按钮
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110163849264-1927959482.png)
+<hr/>
+
+# <a href="https://github.com/HeZaiJin/SlantedTextView">HeZaiJin/SlantedTextView</a>
+### 倾斜的TextView，可设置颜色、字体大小、长度等
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110163609624-1029121630.png)
+<hr/>
+
+# <a href="https://github.com/RomainPiel/Shimmer-android">Shimmer-android</a>
+### 带闪光效果的TextView，动画效果可取消
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110163325342-1307746945.gif)
+<hr/>
+
+# <a href="https://github.com/norbsoft/android-typeface-helper">norbsoft/android-typeface-helper</a>
+### 文本字体设置
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110165345624-1707315837.png)
 <hr/>
 
 # <a href="https://github.com/siyamed/android-shape-imageview">siyamed/android-shape-imageview</a>
@@ -145,16 +180,15 @@
 <img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110160441374-452073280.gif" width="200" />
 <hr/>
 
-# <a href=""></a>
-### 
-
+# <a href="https://github.com/BelooS/ChipsLayoutManager">BelooS/ChipsLayoutManager</a>
+### 碎片标签，仿手机短信接收用户的样式，可以删除
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110162957561-474264876.gif" width="200" />
 <hr/>
 
 # <a href=""></a>
 ### 
 
 <hr/>
-
 
 
 
