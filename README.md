@@ -94,6 +94,16 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109175327233-1393537018.gif)
 <hr/>
 
+# <a href="https://github.com/edmodo/cropper">edmodo/cropper</a>
+### 图片裁剪，用法可参考CropperSample中的MainActivity.java
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110150316436-1606795867.jpg)
+<hr/>
+
+# <a href="https://github.com/edmodo/cropper">edmodo/cropper</a>
+### 图片裁剪，用法可参考example中的MainActivity.java
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110150701264-1043676593.png)
+<hr/>
+
 # <a href="https://github.com/YancyYe/ImageSelector">YancyYe/ImageSelector</a>
 ### 图片选择器，支持单选、多选、拍照、矩形裁剪，解决内存溢出问题
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110141658139-1072201013.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
