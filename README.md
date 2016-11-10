@@ -69,8 +69,13 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109174610592-1569055124.gif)
 <hr/>
 
+# <a href="https://github.com/code-troopers/android-betterpickers">code-troopers/android-betterpickers</a>
+### 时间、日期弹出框选择器
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111138155-322975358.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111153186-265127780.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111159327-2072839621.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111205967-1148208090.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111213061-1717989015.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111218920-1223998418.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111225202-1576463124.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111230811-1722241657.png)&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111236717-643503630.png)
+<hr/>
+
 # <a href="https://github.com/oguzbilgener/CircularFloatingActionMenu">oguzbilgener/CircularFloatingActionMenu</a>
-### 卫星导航悬浮菜单
+### 卫星导航悬浮菜单，可自定义菜单图片资源
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109175327233-1393537018.gif)
 <hr/>
 
@@ -98,11 +103,6 @@
 # <a href="https://github.com/daimajia/AndroidViewAnimations">daimajia/AndroidViewAnimations</a>
 ### 带动画效果的View，TextView、EditView等等
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110105924139-1723774730.gif)
-<hr/>
-
-# <a href=""></a>
-### 
-
 <hr/>
 
 # <a href=""></a>
