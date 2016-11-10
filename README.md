@@ -233,7 +233,7 @@
 
 # <a href="https://github.com/Nightonke/BlurLockView">Nightonke/BlurLockView</a>
 ### 数字锁、字母锁，带输入正确、错误回调事件
-<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110215454467-72951520.gif" width="250" />
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110215839342-430852621.png)&nbsp;&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110215854420-1334665271.png)
 <hr/>
 
 # <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
