@@ -1,5 +1,5 @@
 # <a href="https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md">Android开发规范</a>
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113432186-350825269.png)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113730233-1610139878.png)
 <hr/>
 
 # <a href="https://github.com/ZQiang94/Andriod-collect-blogs">ZQiang94/Andriod-collect-blogs</a>
@@ -13,12 +13,12 @@
 
 # <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
 ### 仿微信支付时密码输入界面
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113306264-607515229.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113958233-268571228.gif)
 <hr/>
 
 # <a href="https://github.com/zcweng/ToggleButton">zcweng/ToggleButton</a>
 ### 仿ios开关ToggleButton，支持设置打开跟关闭的颜色、边框宽度
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109165814139-814549887.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110114107249-477248888.gif)
 <hr/>
 
 # <a href="https://github.com/dmytrodanylyk/circular-progress-button">dmytrodanylyk/circular-progress-button</a>
@@ -28,12 +28,12 @@
 
 # <a href="https://github.com/Yalantis/Taurus">Yalantis/Taurus</a>
 ### 下拉刷新
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109170752842-1461703507.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110114234077-1168691594.gif)
 <hr/>
 
 # <a href="https://github.com/baoyongzhang/android-PullRefreshLayout">baoyongzhang/android-PullRefreshLayout</a>
 ### ListView下拉刷新，包含四种样式
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109171230358-809332038.gif)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110114353905-2074214678.gif)
 <hr/>
 
 # <a href="https://github.com/beworker/pinned-section-listview">beworker/pinned-section-listview</a>
