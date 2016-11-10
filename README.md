@@ -29,7 +29,8 @@
 
 # <a href="https://github.com/orhanobut/dialogplus">orhanobut/dialogplus</a>
 ### 对话框，可从顶部、中间、底部弹出，显示界面可以为自定义、列表（可扩展）、坐标方格
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110154053389-610442744.gif)&nbsp;&nbsp;&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110154626967-2039052858.gif)
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110155637374-1640884902.gif" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110155415374-1460721392.gif" width="200" />
 <hr/>
 
 # <a href="https://github.com/lewisjdeane/L-Dialogs">lewisjdeane/L-Dialogs</a>
