@@ -22,9 +22,14 @@
 <hr/>
 
 # <a href="https://github.com/pedant/sweet-alert-dialog">pedant/sweet-alert-dialog</a>
-### 提示框dialog，成功、错误、警告、加载中、提示框
+### 带动画的对话框dialog，成功、错误、警告、加载中、提示框
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110141430936-1626712450.gif)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161109174610592-1569055124.gif)
+<hr/>
+
+# <a href="https://github.com/lewisjdeane/L-Dialogs">lewisjdeane/L-Dialogs</a>
+### 对话框dialog，普通对话框、列表对话框（带监听事件）
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110150017092-1286405108.png)
 <hr/>
 
 # <a href="https://github.com/code-troopers/android-betterpickers">code-troopers/android-betterpickers</a>
