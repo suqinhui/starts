@@ -2,13 +2,26 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110113730233-1610139878.png)
 <hr/>
 
-# <a href="https://github.com/ZQiang94/Andriod-collect-blogs">ZQiang94/Andriod-collect-blogs</a>
-### 跟android开发相关的文档，内容较多，，，，
+# <a href="https://github.com/Freelander/Android_Data">Android 学习资料收集</a>
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110170353686-1367053296.png)
 <hr/>
 
-# <a href="https://github.com/wasabeef/awesome-android-ui">wasabeef/awesome-android-ui</a>
-### Android开发UI框架大全
+# <a href="https://github.com/ZQiang94/Andriod-collect-blogs">ZQiang94/Andriod-collect-blogs</a>
+### 大神收集的跟android开发相关的博客
+<hr/>
+
+# <a href="https://github.com/Trinea/android-open-project">Android 开源项目分类汇总</a>
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110175759530-844965539.png)
+<hr/>
+
+# <a href="https://github.com/wasabeef/awesome-android-ui">Android开发UI框架大全</a>
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110165138592-1917309192.png)
+<hr/>
+
+# <a href="https://github.com/sdc-alibaba/SUI-Mobile">sdc-alibaba/SUI-Mobile</a>
+### 由阿里巴巴国际UED前端出品的移动端UI库，包含android开发需要的多种控件
+<a href="http://m.sui.taobao.org/components/">SUI Mobile官网</a>
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110180722795-2097089304.png)&nbsp;&nbsp;&nbsp;&nbsp;![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110180740577-1550123034.png)
 <hr/>
 
 # <a href="https://github.com/zcweng/ToggleButton">zcweng/ToggleButton</a>
@@ -98,6 +111,11 @@
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110111546108-43439664.png)
 <hr/>
 
+# <a href="https://github.com/baoyongzhang/SwipeMenuListView">baoyongzhang/SwipeMenuListView</a>
+### ListView列表项左滑菜单，可自定义菜单项、文字、背景等
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110180145749-258114106.gif" width="200" />
+<hr/>
+
 # <a href="https://github.com/baoyongzhang/android-PullRefreshLayout">baoyongzhang/android-PullRefreshLayout</a>
 ### ListView下拉刷新，包含四种样式
 ![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110114353905-2074214678.gif)
@@ -180,14 +198,15 @@
 <img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110160441374-452073280.gif" width="200" />
 <hr/>
 
+# <a href="https://github.com/LuckyJayce/ViewPagerIndicator">LuckyJayce/ViewPagerIndicator</a>
+### ViewPager，实现了引导页、可自定义高度的高度自定义的tab、网易顶部的tab、新浪微博底部tab
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110174242452-384078811.png)
+![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110174250624-746943861.png)
+<hr/>
+
 # <a href="https://github.com/BelooS/ChipsLayoutManager">BelooS/ChipsLayoutManager</a>
 ### 碎片标签，仿手机短信接收用户的样式，可以删除
 <img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110162957561-474264876.gif" width="200" />
-<hr/>
-
-# <a href=""></a>
-### 
-
 <hr/>
 
 
