@@ -91,7 +91,7 @@
 
 # <a href="https://github.com/Jungerr/GridPasswordView">Jungerr/GridPasswordView</a>
 ### 仿微信支付时密码输入界面
-![](http://images2015.cnblogs.com/blog/808795/201611/808795-20161110143859014-697186681.gif)
+<img height="400" src="http://images2015.cnblogs.com/blog/808795/201611/808795-20161110160153327-1153565973.gif" width="200" />
 <hr/>
 
 # <a href="https://github.com/LarsWerkman/HoloColorPicker">LarsWerkman/HoloColorPicker</a>
